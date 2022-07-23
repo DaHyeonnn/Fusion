@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/90945094/180591958-2fe871fe-09d8-4bbc-93bc-76004526dcf6.png)
 
-카메라의 내부행렬과 외부행렬(RT)을 구한 뒤, 
+카메라의 내부행렬(카메라 자체의 왜곡 보정)과 외부행렬(Rotated &  Transposed matrix)을 구한 뒤, 
 
 ![image](https://user-images.githubusercontent.com/90945094/180591929-57ff9a31-c094-4cb2-8ab5-ab50e7223c4e.png)
 
